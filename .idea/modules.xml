@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Basket-Score-Counter.iml" filepath="$PROJECT_DIR$/Basket-Score-Counter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CourtCounter.iml" filepath="$PROJECT_DIR$/CourtCounter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basket-Score-Counter.iml" filepath="$PROJECT_DIR$/.idea/modules/Basket-Score-Counter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Basket-Score-Counter.app.unitTest.iml" />
     </modules>
   </component>
 </project>
